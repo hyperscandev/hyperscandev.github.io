@@ -20,7 +20,7 @@ You can power the USB port in order to connect a USB flash drive and run homebre
 
 ### Steps
 1) Insert the USB Flash Drive into your PC and format it using the default settings and FAT32 as the file system.
-2) Download [usbfiles.zip](https://github.com/hyperscandev/hyperscandev.github.io/files/15192846/usbfiles.zip) and unzip them somewhere you can find them easily.
+2) Download [usbfiles.zip](https://github.com/hyperscandev/hyperscandev.github.io/blob/main/files/usbfiles.zip) and unzip them somewhere you can find them easily.
 3) Copy the files into your USB Flash Drive.
 4) Remove the USB Flash Drive from your PC.
 5) Insert the USB Flash Drive into one of the 2 female ends of the Y Splitter.
