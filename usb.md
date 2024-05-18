@@ -1,5 +1,7 @@
 # USB Access
 
+# **You must have installed a UART cable to the UART section of the board and also have Ppcasm's Custom Firmware flashed**
+
 ## Theory
 The USB port on the back of the Hyperscan doesn't work out of the box. A common theory is that they already had chosen the PSU and the feature wasn't going to be utilized.
 To follow the USB specifications, the power supply needs to provide a clean 500mA current at 5V. I don't think the power supply was able to do that with all the other devices
