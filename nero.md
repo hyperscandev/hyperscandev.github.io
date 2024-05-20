@@ -1,7 +1,7 @@
 # Installing Nero
 
 ## Overview
-Nero is the recommended software for burning Hyperscan CD's according to a Sunplus leaked document. The latest version of Nero costs **$$$** so instead
+Nero is the recommended software for burning Hyperscan CD's according to Sunplus. The latest version of Nero costs **$$$** so instead
 we are going to install an older version around the time the Hyperscan was released.
 
 ### TLDR
